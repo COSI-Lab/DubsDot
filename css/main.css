@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
 html {
   box-sizing: border-box;
 }
@@ -14,12 +15,13 @@ body {
   padding: 0;
   margin: 0;
   background: url("../img/back_pattern.png");
+  font-family: "Open Sans", sans-serif;
 }
 
 .logo {
   border-radius: 20px;
   padding-top: 3px;
-  width: 170px;
+  width: 200px;
   margin: 0 calc(50% - 75px);
 }
 
@@ -38,6 +40,11 @@ section::after {
   clear: both;
   content: "";
   display: table;
+}
+
+section h1 {
+  font-size: 3em;
+  margin-bottom: 1.5rem;
 }
 
 section ul {
@@ -69,8 +76,19 @@ section ul li:nth-child(3n+1) {
   clear: left;
 }
 
+section ul li a {
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+}
+
+section ul li p {
+  margin-top: 5px;
+  color: rgba(0, 0, 0, 0.5);
+}
+
 footer {
-  height: 150px;
+  height: 75px;
   background-color: #34495e;
   color: white;
   box-sizing: border-box;
@@ -82,6 +100,9 @@ footer {
   .logo {
     width: 300px;
     margin: 0 calc(50% - 150px);
+  }
+  section h1 {
+    text-align: center;
   }
   section ul li {
     float: left;
