@@ -25,15 +25,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="75"
-     inkscape:cy="31.08747"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="24.186175"
+     inkscape:cy="93.129772"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1026"
+     inkscape:window-height="1028"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1" />
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -57,10 +57,10 @@
     <rect
        style="fill:#34495e;fill-opacity:1"
        id="rect4164"
-       width="150.25491"
-       height="75.321175"
-       x="-0.03226329"
-       y="75.076546" />
+       width="167.57903"
+       height="99.362808"
+       x="-8.1639919"
+       y="61.995068" />
   </g>
   <g
      inkscape:label="Layer 1"
@@ -69,16 +69,16 @@
      transform="translate(0,-977.36216)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:38.91629028px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="9.4616785"
-       y="1060.3206"
+       style="font-style:normal;font-weight:normal;font-size:38.18194199px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="0.94043952"
+       y="1040.3124"
        id="text3336"
        sodipodi:linespacing="125%"
-       transform="scale(1.0278472,0.97290727)"><tspan
+       transform="scale(1.0084518,0.99161904)"><tspan
          sodipodi:role="line"
          id="tspan3338"
-         x="9.4616785"
-         y="1060.3206"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.64536285px;font-family:'Concert One';-inkscape-font-specification:'Concert One';fill:#ffffff;fill-opacity:1">WWW.</tspan></text>
+         x="0.94043952"
+         y="1040.3124"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.72742844px;font-family:'Concert One';-inkscape-font-specification:'Concert One';fill:#ffffff;fill-opacity:1">WWW.</tspan></text>
   </g>
 </svg>

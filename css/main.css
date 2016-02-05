@@ -21,8 +21,8 @@ body {
 .logo {
   border-radius: 20px;
   padding-top: 3px;
-  width: 200px;
-  margin-left: calc(50% - 100px);
+  width: 300px;
+  margin-left: calc(50% - 150px);
 }
 
 .logo:hover {
