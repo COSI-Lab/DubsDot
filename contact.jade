@@ -1,0 +1,46 @@
+doctype
+html
+  head
+    title DubsDot
+    meta(name="viewport" content="width=device-width, initial-scale=1.0")
+    meta(charset="utf-8")
+    link(rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css")
+    link(href="css/main.css" rel="stylesheet", type="text/css")
+    script(src="https://code.jquery.com/jquery-2.2.3.min.js")
+    script(src="main.js")
+  body
+    header
+      h1 Dubsdot
+      button.toggleMenu
+        i(class="fa fa-bars" onclick="toggleMobileMenu()")
+      nav
+        a(href="index.html") Home
+        a(href="about.html") About
+        a(href="contact.html") Contact
+    nav.navMobile
+      a(href="index.html") Home
+      a(href="about.html") About
+      a(href="contact.html") Contact
+    section
+      h1 Contact Us
+      .contactColumn
+        h2 Contact the Webmaster
+        img(src="img/lannonbr_profile.jpg").lannonbr_profile
+        h2 Benjamin Lannon
+        h5 COSI Lab Director
+        h5 Clarkson University Class of 2018
+        h5 Email: lannonbr@clarkson.edu
+        
+      .contactColumn
+        h2 Learn more about COSI
+        p.
+          COSI is the CS Lab at Clarkson University and is open to all students.
+          If you are interested in starting a project or want to join an existing
+          project like Dubsdot, come visit us in SC336.
+        strong Website: 
+        a(href="http://cslabs.clarkson.edu") COSI
+        br
+        strong Github Organization: 
+        a(href="https://github.com/COSI-Lab/") COSI-Lab
+    footer
+      a(href="http://cslabs.clarkson.edu") Clarkson Open Source Institute

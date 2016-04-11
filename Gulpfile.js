@@ -16,5 +16,5 @@ gulp.task('jade', function() {
 
 gulp.task('watch', function() {
 	gulp.watch(['./sass/*.scss', './sass/**/*.scss'], ['sass']);
-	gulp.watch('./*.jade', ['jade']);
+	gulp.watch(['./index.jade', './about.jade', './contact.jade'], ['jade']);
 });

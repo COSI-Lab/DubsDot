@@ -1,0 +1,47 @@
+doctype
+html
+  head
+    title DubsDot
+    meta(name="viewport" content="width=device-width, initial-scale=1.0")
+    meta(charset="utf-8")
+    link(rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css")
+    link(href="css/main.css" rel="stylesheet", type="text/css")
+    script(src="https://code.jquery.com/jquery-2.2.3.min.js")
+    script(src="main.js")
+  body
+    header
+      h1 Dubsdot
+      button.toggleMenu
+        i(class="fa fa-bars" onclick="toggleMobileMenu()")
+      nav
+        a(href="index.html") Home
+        a(href="about.html") About
+        a(href="contact.html") Contact
+    nav.navMobile
+      a(href="index.html") Home
+      a(href="about.html") About
+      a(href="contact.html") Contact
+    
+    section
+      h1 What is Dubsdot
+      p.
+        Dubsdot is a Web server running on one of COSI's VM Hosts (Bennu). It is
+        running a Debian 8 install and all websites are ported through a Apache
+        VirtualHost.
+        
+      h3 How can I put a site on Dubsdot?
+      p.
+        Either bring up a forum topic at our Wednesday meeting, or come see the
+        Webmaster, Benjamin Lannon, in the labs. If the site / application would
+        fit well on Dubsdot, he can help put it on the server fairly quickly.
+        The one requirement is that an application on Dubsdot should benefit
+        COSI in some way.
+      
+      h3 Current Services
+      p These are the current applications that are running directly on Dubsdot:
+      ul
+        li Print
+        li Fsuvius
+        li Talks
+    footer
+      a(href="http://cslabs.clarkson.edu") Clarkson Open Source Institute
