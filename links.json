@@ -1,0 +1,67 @@
+{
+	"main": [
+		{
+			"name": "CSLabs Homepage",
+			"url": "http://cslabs.clarkson.edu",
+			"desc": "The root site for COSI & ITL"
+		},
+		{
+			"name": "Docs",
+			"url": "http://docs.cslabs.clarkson.edu",
+			"desc": "COSI's Documentation Wiki"
+		},
+		{
+			"name": "Print",
+			"url": "http://print.cslabs.clarkson.edu",
+			"desc": "The print service"
+		},
+		{
+			"name": "Mirror",
+			"url": "http://mirror.clarkson.edu",
+			"desc": "FOSS Mirror"
+		},
+		{
+			"name": "Talks",
+			"url": "http://talks.cslabs.clarkson.edu",
+			"desc": "Prep for Weekly Meetings"
+		},
+		{
+			"name": "Meeting Minutes",
+			"url": "http://cosi-lab.github.io/meeting-minutes",
+			"desc": "Archive of Meeting Minutes"
+		},
+		{
+			"name": "Project Updates",
+			"url": "http://cosi-lab.github.io/project-updates",
+			"desc": "Updates on projects in COSI"
+		},
+		{
+			"name": "Github/COSI-Lab",
+			"url": "https://github.com/COSI-Lab",
+			"desc": "COSI's Github Organization"
+		},
+		{
+			"name": "Management",
+			"url": "http://management.cslabs.clarkson.edu",
+			"desc": "COSI Status Checker"
+		}
+	],
+
+	"misc": [
+		{
+			"name": "COSI Moodle",
+			"url": "http://moodle.cslabs.clarkson.edu",
+			"desc": "A Moodle site for COSI classes"
+		},
+		{
+			"name": "Fsuvius",
+			"url": "http://fsuvius.cslabs.clarkson.edu",
+			"desc": "FSU Bank"
+		},
+		{
+			"name": "/r/COSI",
+			"url": "http://reddit.com/r/cosi",
+			"desc": "COSI's subreddit"
+		}
+	]
+}
