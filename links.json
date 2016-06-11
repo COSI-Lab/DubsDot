@@ -67,6 +67,11 @@
 			"name": "Pluto",
 			"url": "http://pluto.cslabs.clarkson.edu:8080",
 			"desc": "Webhook service"
+		},
+		{
+			"name": "The Internet",
+			"url": "http://the-internet.cslabs.clarkson.edu",
+			"desc": "A backup of the internet"
 		}
 	]
 }
