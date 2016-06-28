@@ -72,6 +72,11 @@
 			"name": "The Internet",
 			"url": "http://the-internet.cslabs.clarkson.edu",
 			"desc": "A backup of the internet"
+		},
+		{
+			"name": "Derpy Sayings",
+			"url": "http://derpysayings.cslabs.clarkson.edu",
+			"desc": "Old sayings after being put through a markov chain"
 		}
 	]
 }
