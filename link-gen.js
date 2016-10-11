@@ -19,8 +19,8 @@ function dubsdotJsonToPug(src) {
 		for(let link in content) {
 			let linkObj = content[link];
 			result += "\t\tli\n"; // <li>
-			result += "\t\t\ta(href=\"" + linkObj.url + "\") " + linkObj.name + "\n"; // <a>
-			result += "\t\t\tp " + linkObj.desc + "\n"; // <p>
+			result += "\t\t\ta(href=\"" + linkObj.url + "\")\n\t\t\t\t| " + linkObj.name + "\n"; // <a>
+			result += "\t\t\t\tp " + linkObj.desc + "\n"; // <p>
 		}
 	}
 

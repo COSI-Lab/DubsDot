@@ -173,7 +173,7 @@ section ul li {
   border-radius: 3px;
   margin-bottom: 20px;
   text-align: center;
-  padding: 3em;
+  height: 175px;
 }
 
 section ul li:last-child {
@@ -189,6 +189,10 @@ section ul li:nth-child(3n+1) {
 }
 
 section ul li a {
+  height: 100%;
+  width: 100%;
+  padding-top: 3em;
+  display: inline-block;
   text-decoration: none;
   color: black;
   font-size: 20px;
@@ -196,6 +200,7 @@ section ul li a {
 
 section ul li p {
   margin-top: 5px;
+  font-size: 16px;
   color: rgba(0, 0, 0, 0.5);
 }
 

@@ -76,7 +76,7 @@
 		{
 			"name": "Derpy Sayings",
 			"url": "http://derpysayings.cslabs.clarkson.edu",
-			"desc": "Old sayings after being put through a markov chain"
+			"desc": "Old sayings put through a markov chain"
 		}
 	]
 }
