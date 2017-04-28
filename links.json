@@ -44,15 +44,15 @@
 			"name": "Management",
 			"url": "http://management.cslabs.clarkson.edu",
 			"desc": "COSI Status Checker"
+		},
+		{
+			"name": "IgniteCS",
+			"url": "http://ignitecs.cslabs.clarkson.edu",
+			"desc": "COSI teaching CS to the local community"
 		}
 	],
 
 	"misc": [
-		{
-			"name": "COSI Moodle",
-			"url": "http://moodle.cslabs.clarkson.edu",
-			"desc": "A Moodle site for COSI classes"
-		},
 		{
 			"name": "Fsuvius",
 			"url": "http://fsuvius.cslabs.clarkson.edu",
